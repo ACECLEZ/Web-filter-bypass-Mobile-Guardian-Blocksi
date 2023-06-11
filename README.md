@@ -8,7 +8,7 @@ By using this script, you agree to **take full responsibility** for your actions
 
 ## Reporting Code Copying Without Known Acknowledgement
 
-If you suspect that someone has copied your code without permission, please provide **detailed information** about the original code and the alleged copied code. Include relevant **file names**, **line numbers**, and any additional evidence that supports your claim. 
+If you suspect that someone has copied these code without permission, please provide **detailed information** about the original code and the alleged copied code. Include relevant **file names**, **line numbers**, and any additional evidence that supports your claim. 
 
 ## Reporting Bugs
 
