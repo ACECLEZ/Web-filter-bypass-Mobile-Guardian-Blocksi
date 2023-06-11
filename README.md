@@ -5,6 +5,19 @@ This script is for **educational purposes only**. The author does not endorse or
 This script should be used only in **controlled environments** and with **appropriate permissions** from the owners of the system or data being manipulated. The user **assumes all responsibility** for any **consequences** that may result from the use of this script. The author cannot be held liable for any **misuse or unethical use** of this script by the user.
 
 By using this script, you agree to **take full responsibility** for your actions and to comply with all **applicable laws and regulations**. If you do not agree with these terms, **do not use this script**.
+## Compatibility
+
+Windows 95/98/ME: VBScript is not natively supported in these older versions of Windows. However, you can install Windows Script Host to enable VBScript execution.
+
+Windows NT 4.0: VBScript is not natively supported, but you can install Windows Script Host to enable VBScript execution.
+
+Windows 2000/XP: VBScript is supported natively by Windows Script Host.
+
+Windows Server 2003: VBScript is supported natively by Windows Script Host.
+
+Windows Vista/7/8/8.1/10: VBScript is supported natively by Windows Script Host.
+
+Windows Server 2008/2012/2016/2019: VBScript is supported natively by Windows Script Host.
 
 ## Reporting Code Copying Without Known Acknowledgement
 
