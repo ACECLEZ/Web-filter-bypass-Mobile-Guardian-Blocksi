@@ -1,0 +1,15 @@
+V1.0
+Established Bypass for Blocksi 
+V1.1
+Added event listener to prevent Blocksi recovery
+V1.2
+Reduced CPU usage of bypass file
+V1.3
+Added proxy in main file
+V1.4
+Added game bypass file
+V1.5
+Added hide game function [disguise as google classroom]
+Added delete game function
+V1.6
+fix hide game crash
