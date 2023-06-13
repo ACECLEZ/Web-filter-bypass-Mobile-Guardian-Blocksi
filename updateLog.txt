@@ -13,3 +13,13 @@ Added hide game function [disguise as google classroom]
 Added delete game function
 V1.6
 fix hide game crash
+V1.7
+Added hide/delete game by name
+V1.8 
+All functions auto detect for profile number, no longer hard coded
+V1.9
+Added bypass for Mobile Guardian
+V2.0
+Added disable all chrome extensions, both manual and on startup
+V2.1
+Fix proxy crash
